@@ -32,6 +32,7 @@ public class BlackjackGUI extends JPanel {
 	   window.setLocationRelativeTo(null);
 	   window.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
 	   window.setVisible(true);
+	   System.out.println("c'est fait");
    }
       
    
